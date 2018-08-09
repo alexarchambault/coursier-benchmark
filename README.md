@@ -1,4 +1,4 @@
-# coursier 2¢ benchmark
+# coursier benchmark
 
 This small project fetches `org.apache.spark::spark-sql:2.2.0` with and without
 sbt-coursier, and compares both results.
